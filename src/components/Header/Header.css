@@ -1,0 +1,31 @@
+@media only screen and (max-width: 400px) {
+  .header {
+    height: 200px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+  }
+  .main-header {
+    font-family: "Croissant One", cursive;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+  }
+  .logo {
+    width: 36px;
+    height: 52px;
+  }
+  .glucodrop {
+    font-weight: 400;
+    font-size: 38px;
+    line-height: 53px;
+    color: #093C9E;
+  }
+  .sub-header {
+    font-size: 16px;
+    line-height: 20px;
+    font-family: "Courgette", cursive;
+    text-align: center;
+    color: #093C9E;
+  }
+}/*# sourceMappingURL=Header.css.map */
