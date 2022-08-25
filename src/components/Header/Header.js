@@ -3,12 +3,12 @@ import './Header.scss';
 const Header = () => {
     return ( 
         <div className="header">
-            <div class="main-header">
-                <Logo class="logo"/>
-                <p class="glucodrop">GlucoDrop</p>
+            <div className="main-header">
+                <Logo className="logo"/>
+                <p className="glucodrop">GlucoDrop</p>
             </div>
-            <div class="sub-header">
-                <p class="sub-text">Let’s control that sugar!</p>
+            <div className="sub-header">
+                <p className="sub-text">Let’s control that sugar!</p>
             </div>
         </div>
      );

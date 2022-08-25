@@ -1,0 +1,60 @@
+
+@media only screen and (max-width: 400px){
+    .info{
+        font-family: 'Khula', sans-serif;
+        display: flex;
+        flex-direction: column;
+        align-items: center;
+    }
+    
+    .container{
+        width: 94%;
+        
+    }
+    .title{
+        color: #093C9E;
+        font-size: 32px;
+        font-weight: 800;
+        line-height: 36px;
+        margin-bottom: 20px;
+    }
+    .content{
+        font-weight: 400;
+        margin-bottom: 15px;
+    }
+    .image-girl{
+        width: 345px;
+        height: 360px;
+        margin-bottom: 15px;
+    }
+
+    .discover-btn{
+        margin-bottom: 50px;
+    }
+
+    .lil-title{
+        font-size: 24px;
+        font-weight: 600;
+        color: #093C9E;
+        line-height: 37px;
+        margin-bottom: 15px;
+    }
+
+    .mentality-flex{
+        display: flex;
+        justify-content: space-between;
+        align-items: center;
+        margin-bottom: 15px;
+        p{
+            width: 160px;
+            font-size: 16px;
+            line-height: 22px;
+        }
+    }
+
+    .ostrich-p2{
+        font-size: 16px;
+        line-height: 22px;
+        margin-bottom: 50px;
+    }
+}
